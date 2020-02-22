@@ -3,6 +3,7 @@ require("dotenv").config();
 var Spotify = require('node-spotify-api');
 var axios = require('axios');
 var moment = require('moment')
+var fs = require("fs");
 var nodeArg = process.argv
 var command = nodeArg[2]
 var userInput = nodeArg.slice(3).join(" ");
@@ -95,4 +96,14 @@ if (command === "spotify-this-song") {
             }
             console.log(error.config);
         });
+} else if (command === "do-what-it-says") {
+
+    fs.readFile("random.txt", "utf8", function(error, data) {
+
+        if (error) {
+          return console.log(error);
+        }
+        console.log(data);
+      
+      });
 }
