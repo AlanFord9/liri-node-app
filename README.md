@@ -13,19 +13,19 @@ There are 4 commands this application can run through the terminal:
 # Functionality
 
 ## concert-this
-![concert-this](/documents/concert-this.jpeg)
+![concert-this](/concert-this.jpeg)
 
 ## spotify-this-song
-![spotify-this-song](/documents/spotify-song.jpeg)
+![spotify-this-song](/spotify-song.jpeg)
 
 ## spotify-this-song blank
-![spotify-this-song blank](/documents/spotify-blank.jpeg)
+![spotify-this-song blank](/spotify-blank.jpeg)
 
 ## movie-this
-![movie-this](/documents/movie-this-movie.jpeg)
+![movie-this](/movie-this-movie.jpeg)
 
 ## movie-this blank
-![movie-this blank](/documents/movie-this-blank.jpeg)
+![movie-this blank](/movie-this-blank.jpeg)
 
 ## do-what-it-says(Spotify-I want it that way)
-![do-what-it-says](/documents/do-what-it-says.jpeg)
+![do-what-it-says](/do-what-it-says.jpeg)
