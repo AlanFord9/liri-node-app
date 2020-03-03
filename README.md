@@ -13,19 +13,19 @@ This application can be used to search songs on spotify, search concerts for mus
 # Functionality
 
 ## concert-this
-![concert-this](concert-this.png)
+![concert-this](/concert-this.jpeg)
 
 ## spotify-this-song
-![spotify-this-song](spotify-song.png)
+![spotify-this-song](/spotify-song.jpeg)
 
 ## spotify-this-song blank
-![spotify-this-song blank](spotify-blank.png)
+![spotify-this-song blank](/spotify-blank.jpeg)
 
 ## movie-this
-![movie-this](movie-this-movie.png)
+![movie-this](/movie-this-movie.jpeg)
 
 ## movie-this blank
-![movie-this blank](movie-this-blank.png)
+![movie-this blank](/movie-this-blank.jpeg)
 
 ## do-what-it-says(Spotify-I want it that way)
-![do-what-it-says](do-what-it-says.png)
+![do-what-it-says](/do-what-it-says.jpeg)
