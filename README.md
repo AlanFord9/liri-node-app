@@ -3,12 +3,12 @@
 This application can be used to search songs on spotify, search concerts for musical artists, and get information on movies. 
 
 ## There are 4 commands this application can run through the terminal:
-1. concert-this: pull up info on a band and their upcoming shows
-1. spotify-this-song: pull information related to any song on spotify
+* concert-this: pull up info on a band and their upcoming shows
+* spotify-this-song: pull information related to any song on spotify
   * if no song is entered, Spotify will search "ace of bass" by default
-1. movie-this: pull information on any movie
+* movie-this: pull information on any movie
   * if no movie is entered, OMBD will search "mr. nobody" by default
-1. do-what-it-says: search the command in the txt file
+* do-what-it-says: search the command in the txt file
 
 # Functionality
 
